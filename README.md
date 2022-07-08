@@ -1,13 +1,5 @@
 # Git-test
 
-echo "# Git-test" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Emaydannikov/Git-test.git
-git push -u origin main
-
 Summary
 Here we discussed the Gitflow Workflow. Gitflow is one of many styles of Git workflows you and your team can utilize.
 
